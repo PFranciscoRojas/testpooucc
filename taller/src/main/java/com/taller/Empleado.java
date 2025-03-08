@@ -1,0 +1,35 @@
+package com.taller;
+
+public abstract class Empleado {
+    protected String nombre;
+    protected int salario;
+
+    public Empleado(String nombre, int salario){
+        this.nombre = nombre;
+        this.salario = salario;
+    }
+
+    public abstract void calcularBonificacion();
+
+    public String getNombre() {
+        return nombre;
+    }
+
+
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+
+
+    public int getSalario() {
+        return salario;
+    }
+
+
+
+    public void setSalario(int salario) {
+        this.salario = salario;
+    }
+}
