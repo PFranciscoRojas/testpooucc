@@ -3,7 +3,6 @@ package com.example;
 import java.util.ArrayList;
 import java.util.List;
 
-
 abstract class Empleado {
     protected String nombre;
     protected double salario;
@@ -23,7 +22,6 @@ abstract class Empleado {
         return salario;
     }
 }
-
 
 class EmpleadoFijo extends Empleado {
     public EmpleadoFijo(String nombre, double salario) {
@@ -47,11 +45,9 @@ class EmpleadoContratado extends Empleado {
     }
 }
 
-
 interface Evaluable {
     double evaluarDesempeno();
 }
-
 
 class EmpleadoEvaluado extends EmpleadoFijo implements Evaluable {
     public EmpleadoEvaluado(String nombre, double salario) {
@@ -63,7 +59,6 @@ class EmpleadoEvaluado extends EmpleadoFijo implements Evaluable {
         return Math.random() * 10; 
     }
 }
-
 
 class Departamento {
     private String nombre;
