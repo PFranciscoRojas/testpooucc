@@ -86,7 +86,6 @@ class Departamento {
     }
 }
 
-
 class SistemaGestionEmpleados {
     public static void main(String[] args) {
         Departamento departamento = new Departamento("Recursos Humanos");
