@@ -3,4 +3,5 @@ Añade tu nombre completo si es aprobado
 2. Hamilton Santiago Insandará Alvarez
 3. Jose Manuel Mafla Muñoz
 4. Maria Valentina Vasquez Delgado
-5. Samuel Felipe Guerrero Salazar
+
+6. Samuel Felipe Guerrero Salazar
