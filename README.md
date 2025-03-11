@@ -6,6 +6,4 @@
 4. Que algunas subclases de Empleado implementen Evaluable para definir cómo se evalúa su desempeño.
 5. Crear una clase Departamento que use composición para contener una lista de empleados.
 6. Mostrar cómo, mediante polimorfismo, se pueden invocar métodos de empleados sin conocer su tipo exacto."
-
-
-Linea agregada desde feature/dog2 
+ 
