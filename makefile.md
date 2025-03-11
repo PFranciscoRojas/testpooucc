@@ -1,1 +1,1 @@
-Hola esto es un texto desde un perro
+Añade tu nombre completo si es aprobado
