@@ -4,4 +4,4 @@ Añade tu nombre completo si es aprobado
 3. Jose Manuel Mafla Muñoz
 4. Maria Valentina Vasquez Delgado
 
-6. Samuel Felipe Guerrero Salazar
+7. Samuel Felipe Guerrero Salazar
