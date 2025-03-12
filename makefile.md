@@ -6,4 +6,7 @@ Añade tu nombre completo si es aprobado
 5. Mario Fernando Santacruz Pantoja
 6. Paulo Isaac Tibanta Delgado 
 7. Cristian Santiago Ramos Lopez
-8. Samuel Felipe Guerrero Salazar
+8. Samuel Felipe Guerrero Salazarß
+9. Diego Rosero cisneros
+10. Juan David Moncayo Muñoz
+11. Juan Jose Calvache 
