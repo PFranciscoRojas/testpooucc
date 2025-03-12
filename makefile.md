@@ -5,5 +5,5 @@ Añade tu nombre completo si es aprobado
 4. Maria Valentina Vasquez Delgado
 5. Mario Fernando Santacruz Pantoja
 6. Paulo Isaac Tibanta Delgado 
-
+7. Cristian Santiago Ramos Lopez
 8. Samuel Felipe Guerrero Salazar
