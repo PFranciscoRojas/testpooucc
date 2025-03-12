@@ -8,3 +8,4 @@ Añade tu nombre completo si es aprobado
 7. Cristian Santiago Ramos Lopez
 8. Samuel Felipe Guerrero Salazar
 9. Diego Rosero cisneros
+10. Jhon Fredy Moran
