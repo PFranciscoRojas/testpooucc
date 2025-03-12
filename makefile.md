@@ -10,3 +10,4 @@ Añade tu nombre completo si es aprobado
 9. Diego Rosero cisneros
 10. Juan David Moncayo Muñoz
 11. Omar Fabian Acosta Pulgarin
+12. Jhon Fredy Moran Quetama
