@@ -7,3 +7,4 @@ Añade tu nombre completo si es aprobado
 6. Paulo Isaac Tibanta Delgado 
 7. Cristian Santiago Ramos Lopez
 8. Samuel Felipe Guerrero Salazar
+9. Diego Rosero cisneros
