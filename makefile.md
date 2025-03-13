@@ -10,11 +10,5 @@ Añade tu nombre completo si es aprobado
 9. Diego Rosero cisneros
 10. Juan David Moncayo Muñoz
 11. Omar Fabian Acosta Pulgarin
-<<<<<<< HEAD
-12. Nelson Andres Chaves Chaves
-
-
-
-=======
 12. Cristian Geovanny Ruano Perez 
->>>>>>> 5de7e02160a60f3fd1290dee5c721305703bea38
+13. Nelson Andres Chaves Chaves
