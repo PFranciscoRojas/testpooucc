@@ -10,8 +10,5 @@ Añade tu nombre completo si es aprobado
 9. Diego Rosero cisneros
 10. Juan David Moncayo Muñoz
 11. Omar Fabian Acosta Pulgarin
-<<<<<<< HEAD
-12. Diego Alejandro Ocampo Madroñero
-=======
 12. Cristian Geovanny Ruano Perez 
->>>>>>> origin
+13. Diego Alejandro Ocampo Madroñero
