@@ -9,4 +9,5 @@ Añade tu nombre completo si es aprobado
 8. Samuel Felipe Guerrero Salazar
 9. Diego Rosero cisneros
 10. Juan David Moncayo Muñoz
-11. Diego Alejandro Ocampo Madroñero
+11. Omar Fabian Acosta Pulgarin
+12. Diego Alejandro Ocampo Madroñero
