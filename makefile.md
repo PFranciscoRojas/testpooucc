@@ -13,4 +13,3 @@ Añade tu nombre completo si es aprobado
 11. Omar Fabian Acosta Pulgarin
 12. Cristian Geovanny Ruano Perez
 13. Nelson Andres Chaves Chaves
-14. Juan David Sanchez Meza
